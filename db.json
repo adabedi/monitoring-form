@@ -85,13 +85,6 @@
               { "id": "unresponsive", "name": "unresponsive" }
             ]
           },
-          "bloodGlucose": {
-            "value": "",
-            "label": "Blood Glucose",
-            "units": "mmol/L",
-            "pickerData": ["35", "36", "37", "38", "39", "40", "41"],
-            "defaultValue": ""
-          },
           "temperature": {
             "value": "",
             "label": "temperature",
