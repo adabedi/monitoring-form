@@ -102,15 +102,8 @@
             ],
             "defaultValue": ""
           }
-        },
-        "situation": {
-          "value": "",
-          "defaultValue": ""
-        },
-        "background": {
-          "value": "",
-          "defaultValue": ""
         }
+      
       }
     ],
     "profile": {
