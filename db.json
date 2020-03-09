@@ -19,7 +19,7 @@
             "defaultValue": ""
           },
           "supplementalO2": {
-            "value": "",
+            "value": "no",
             "label": "Supplemental o2",
             "options": [
               {
