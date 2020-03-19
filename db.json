@@ -19,7 +19,7 @@
             "defaultValue": ""
           },
           "supplementalO2": {
-            "value": "no",
+            "value": "yes",
             "label": "Supplemental o2",
             "options": [
               {
@@ -33,7 +33,7 @@
             ]
           },
           "device": {
-            "value": "",
+            "value": "Tracheostomy Mask",
             "label": "Device",
             "units": "%",
             "options": [
